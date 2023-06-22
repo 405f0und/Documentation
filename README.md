@@ -38,6 +38,6 @@ This repository will contain all of the documentation related to this project. T
 
 [Documentation](https://github.com/405f0und/Documentation)
 
-[Presentations](https://github.com/405f0und/Presentations)
+[Presentations]([https://github.com/405f0und/Presentations](https://docs.google.com/presentation/d/1zmxowBter6J1kJP3ijulRlkOrP-mnWauqEHvtknU68E/edit?usp=sharing)https://docs.google.com/presentation/d/1zmxowBter6J1kJP3ijulRlkOrP-mnWauqEHvtknU68E/edit?usp=sharing)
 
 [Scripts](https://github.com/405f0und/Scripts)
